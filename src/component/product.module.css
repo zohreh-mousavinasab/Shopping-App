@@ -11,7 +11,7 @@
 }
 .button {
   color: #303c6c;
-  background-color: #fbe8a6;
+  background-color: #ffccbc;
   border: 1px solid #303c6c;
   border-radius: 7px;
   outline: none;
@@ -40,7 +40,7 @@
   width: 20px;
   height: 20px;
   background-color: #303c6c;
-  color: #b4dfe5;
+  color: #d3f3fc;
   border-radius: 50%;
   display: flex;
   justify-content: center;
@@ -49,7 +49,7 @@
 }
 
 .trash {
-  color: rgb(219, 105, 64);
-  border-color: rgb(219, 105, 64);
-  background-color: #fbe8a6;
+  color: #303c6c;
+  border-color: #303c6c;
+  background-color: #ffccbc;
 }
